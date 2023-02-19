@@ -1,1 +1,1 @@
-document.getElementById("Hallo").innerText = "script loaded!"
+document.getElementById("hallo").innerText = "script loaded!"
